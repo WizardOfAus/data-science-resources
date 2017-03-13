@@ -1,4 +1,4 @@
-# Resources for Getting Started to Data Science
+# Resources for Getting Started in Data Science
 
 ##Getting Started   
 * [A (very) Short Intro to R](https://cran.r-project.org/doc/contrib/Torfs+Brauer-Short-R-Intro.pdf)
